@@ -10,6 +10,8 @@ _I will continually update this repo._
 The year before, I discovered Flutter, it was one of my great discoveries, I learned a lot.  
 Now, I would like to continue this momentum by developing applications from A to Z for personal projects by fully pushing the functionality that Flutter offers.
 
+<!-- 1. []() -->
+
 ## Learn Svelte 💫
 
 Learning Svelte was one of my unfulfilled goals in 2021.  
@@ -17,8 +19,10 @@ That's why I'm starting early this year so as not to miss the opportunity yet �
 
 1. [Getting started with Svelte](https://github.com/daoodaba975/lets.svelte)
 
-## Firebase
+## Learn Rust 🐇
 
-## Laravel
+## Firebase 🔥
 
-## Testing
+## Laravel 🔴
+
+## Testing ⚗️
