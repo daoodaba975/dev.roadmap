@@ -12,16 +12,20 @@ Now, I would like to continue this momentum by developing applications from A to
 
 <!-- 1. []() -->
 
+## Continue learning with Firebase 🔥
+
+During the previous year I worked a lot with Firebase, I rediscovered this tool in a new aspect with a much more advanced exploitation.  
+This year I would like to continue on this momentum and integrate Firebase on my various projects.
+
 ## Learn Svelte 💫
 
 Learning Svelte was one of my unfulfilled goals in 2021.  
 That's why I'm starting early this year so as not to miss the opportunity yet 😇
 
 1. [Getting started with Svelte](https://github.com/daoodaba975/lets.svelte)
+<!-- 2. []() -->
 
 ## Learn Rust 🐇
-
-## Firebase 🔥
 
 ## Laravel 🔴
 
