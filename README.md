@@ -24,8 +24,7 @@ This year I would like to continue on this momentum and integrate Firebase on my
 Learning Svelte was one of my unfulfilled goals in 2021.  
 That's why I'm starting early this year so as not to miss the opportunity yet 😇
 
-1. [Getting started with Svelte](https://github.com/daoodaba975/lets.svelte)
-<!-- 2. []() -->
+- [Getting started with Svelte](https://github.com/daoodaba975/lets.svelte)
 
 ## Learn Rust 🐇
 
