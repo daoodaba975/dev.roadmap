@@ -29,6 +29,8 @@ That's why I'm starting early this year so as not to miss the opportunity yet �
 I have already had the opportunity to use test tools, but I have never applied it to all my projects.  
 This year I would like to put testing in my development routine ✊🏽
 
+## Learn Django 🐍
+
 ## Learn Rust 🐇
 
 ## Laravel 🔴
