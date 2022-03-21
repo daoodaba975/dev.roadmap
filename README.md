@@ -24,10 +24,19 @@ That's why I'm starting early this year so as not to miss the opportunity yet �
 
 - [Getting started with Svelte](https://github.com/daoodaba975/lets.svelte)
 
+## Deal with Supabase ⚡
+
+Supabase is the best alternative to Firebase, I have tested it on a side project, it's look great.  
+It provide authentication, CRUD operations, and a lot of other features.
+
+- [Next Supabase Auth](https://github.com/daoodaba975/next.supabase.auth)
+
 ## Testing ⚗️
 
 I have already had the opportunity to use test tools, but I have never applied it to all my projects.  
 This year I would like to put testing in my development routine ✊🏽
+
+## Prisma 💎
 
 ## Learn Django 🐍
 
