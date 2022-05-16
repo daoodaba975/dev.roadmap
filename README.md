@@ -27,9 +27,12 @@ That's why I'm starting early this year so as not to miss the opportunity yet �
 ## Deal with Supabase ⚡
 
 Supabase is the best alternative to Firebase, I have tested it on a side project, it's look great.  
-It provide authentication, CRUD operations, and a lot of other features.
+It provide authentication, CRUD operations, and a lot of other features.  
+I appreciate and I'm really considering to use it instead Firebase.
 
 - [Next Supabase Auth](https://github.com/daoodaba975/next.supabase.auth)
+
+## Getting started with Solid JS 🔧
 
 ## Testing ⚗️
 
