@@ -10,13 +10,6 @@ _I will continually update this repo._
 The year before, I discovered Flutter, it was one of my great discoveries, I learned a lot.  
 Now, I would like to continue this momentum by developing applications from A to Z for personal projects by fully pushing the functionality that Flutter offers.
 
-<!-- 1. []() -->
-
-## Continue learning with Firebase 🔥
-
-During the previous year I worked a lot with Firebase, I rediscovered this tool in a new aspect with a much more advanced exploitation.  
-This year I would like to continue on this momentum and integrate Firebase on my various projects.
-
 ## Learn Svelte 💫
 
 Learning Svelte was one of my unfulfilled goals in 2021.  
@@ -32,17 +25,13 @@ I appreciate and I'm really considering to use it instead Firebase.
 
 - [Next Supabase Auth](https://github.com/daoodaba975/next.supabase.auth)
 
-## Getting started with Solid JS 🔧
-
 ## Testing ⚗️
 
 I have already had the opportunity to use test tools, but I have never applied it to all my projects.  
 This year I would like to put testing in my development routine ✊🏽
 
-## Prisma 💎
+### So finally 🤔
 
-## Learn Django 🐍
-
-## Learn Rust 🐇
-
-## Laravel 🔴
+For this year, I did not achieve all my learning objectives 😬  
+But I was really able to focus on Svelte & Supabase.  
+And I started doing Tests in my development habit.
