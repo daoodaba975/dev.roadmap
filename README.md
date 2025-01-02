@@ -13,4 +13,4 @@ It really wasn't on the agenda, but I discovered Playwright. It's like Selenium,
 
 ### So finally 🤔
 
-This year, I didn't invest the time I wanted to learn and explore, but I maximized on the technologies I tested. In 2024, I really want to do a lot of things.
+This year, I didn't invest the time I wanted to learn and explore, but I maximized on the technologies I tested.
