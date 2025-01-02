@@ -15,8 +15,6 @@ Now, I would like to continue this momentum by developing applications from A to
 Learning Svelte was one of my unfulfilled goals in 2021.  
 That's why I'm starting early this year so as not to miss the opportunity yet 😇
 
-- [Getting started with Svelte](https://github.com/daoodaba975/lets.svelte)
-
 ## Deal with Supabase ⚡
 
 Supabase is the best alternative to Firebase, I have tested it on a side project, it's look great.  
